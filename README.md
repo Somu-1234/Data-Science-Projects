@@ -1,2 +1,2 @@
-# TASKS-1-4
-internship tasks from spaks foundation 
+# projects
+DATA SCIENCE AND MACHINE LEARNING
